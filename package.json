@@ -1,10 +1,10 @@
 {
-  "name": "nextjs-notion-starter-kit",
+  "name": "QuinnyScience",
   "version": "0.1.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
-  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "description": "QuinnyScience - Luyện thi Checkpoint/IGCSE/A-Level/IB uy tín",
+  "author": "KallLuu",
+  "repository": "QuinnyScience",
   "license": "MIT",
   "engines": {
     "node": ">=10"
